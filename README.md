@@ -1,2 +1,2 @@
 # Bootstrap-React-Components
-my first ever vanilla react project consisting a simple bootstrap bootstrap template
+my first ever vanilla react project consisting a simple bootstrap template
